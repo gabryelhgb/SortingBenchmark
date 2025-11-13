@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/gabry/OneDrive/Documentos/Estudos/Faculdade/Semestre6/Analise_de_Computabilidade_e_Complexidade_de_Algoritmos/Prova2/lib/jcommon-1.0.23.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gabry/OneDrive/Documentos/Estudos/Faculdade/Semestre6/Analise_de_Computabilidade_e_Complexidade_de_Algoritmos/Prova2/lib/jfreechart-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gabry/OneDrive/Documentos/Estudos/Faculdade/Semestre6/Analise_de_Computabilidade_e_Complexidade_de_Algoritmos/Prova2/Questao1/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gabry/OneDrive/Documentos/Estudos/Faculdade/Semestre6/Analise_de_Computabilidade_e_Complexidade_de_Algoritmos/Prova2/Questao1/lib/jfreechart-1.5.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

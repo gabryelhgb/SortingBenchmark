@@ -15,7 +15,7 @@ import java.util.Map;
  * 2. Chama o 'ExecutorDeBenchmark' para rodar os testes.
  * 3. Chama o 'GeradorDeGrafico' para desenhar os gráficos.
  */
-public class Principal { // Classe 'Main' traduzida
+public class Principal { // Classe 'Main'
 
     public static void main(String[] args) {
         
