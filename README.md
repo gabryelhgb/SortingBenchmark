@@ -108,7 +108,7 @@ classDiagram
         +...
     }
 
-    ' --- Relacionamentos Principais ---
+    %% --- Relacionamentos Principais ---
     Principal ..> ExecutorDeBenchmark : cria e usa
     Principal ..> GeradorDeGrafico : usa
     Principal ..> AlgoritmoDeOrdenacao : usa (no Map)
@@ -119,7 +119,7 @@ classDiagram
     GeradorDeGrafico ..> JFreeChart : usa (JFreeChart, ChartPanel)
     GeradorDeGrafico ..> Swing : usa (JFrame)
 
-    ' --- Implementações (Estratégias) ---
+    %% --- Implementações (Estratégias) ---
     AlgoritmoDeOrdenacao <|-- BubbleSort
     AlgoritmoDeOrdenacao <|-- SelectionSort
     AlgoritmoDeOrdenacao <|-- InsertionSort
